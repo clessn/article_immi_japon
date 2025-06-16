@@ -17,7 +17,10 @@ H2: Superficial contact is likely to reduce anti-immigrant sentiment in Japan.
 H3: Foreign population growth rates have a stronger effect
 on public opinion overall foreign population size. 
 
-The cultural threat seems to drive opinion on immigration more than any other factor.
+The _cultural threat_ seems to drive opinion on immigration more than any other factor.
+At the national level, _areas with larger existing foreign populations_ are more 
+favorable to additional increases in immigration. _Superficial contact_ seems
+to have at least some positive associations with immigration in Japan. 
 
 *Data*
 
