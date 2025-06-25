@@ -50,5 +50,7 @@ categories (1) to (6).
 　(6) Persons without a resident statusNotes1 National
 
 _Foreigners total_
-This refers to people with foreign nationality among the total population of the census. Here, the total number of foreigners and the following countries are collected:
+This refers to people with foreign nationality among the total population of
+the census. Here, the total number of foreigners and the following countries
+are collected:
   - Korea, North Korea, China, and the United States .
